@@ -1,0 +1,6 @@
+{
+  "name": "AI Meme Generator",
+  "description": "An AI-powered meme creator featuring custom image uploads, trending templates, text prompt template generation with gemini-3.1-flash-image-preview, and a context-aware Magic Caption generator using gemini-3.1-pro-preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
